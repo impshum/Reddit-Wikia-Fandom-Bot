@@ -1,0 +1,7 @@
+praw
+configparser
+BeautifulSoup4
+requests
+wikia
+urllib.parse
+time
